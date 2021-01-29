@@ -9,4 +9,6 @@ below.
 ```shell
 git submodule add https://github.com/carols10cents/miss-pickles miss-pickles
 git commit -am "Adding a submodule with branch master"
+# changed a file in miss-pickles
+
 ```
