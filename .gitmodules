@@ -1,0 +1,3 @@
+[submodule "miss-pickles"]
+	path = miss-pickles
+	url = https://github.com/carols10cents/miss-pickles
